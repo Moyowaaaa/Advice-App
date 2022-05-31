@@ -3,7 +3,7 @@
     
 
         <div class="main">
-              <!-- <button @click="advice">Get Advice</button> -->
+        
 
               <div class="card">
                 <div class="card-header">
